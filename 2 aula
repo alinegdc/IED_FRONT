@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>IED - Experience Design </title>
+  </head>
+  <body>
+
+    <!-- Este é o header do site -->
+    <header>
+      <img src="images/img-logo-ied.svg" alt="Logo do IED">
+      <button type="button" name="button">Candidate-se</button>
+    </header>
+
+    <!-- Esta é a área do topo do site -->
+    <section id="hero">
+        <div class="grid">
+          <div class="hero-content">
+            <h1>Experiência do Usuário</h1>
+            <p>Aprenda a criar soluções que resolvem problemas reais e agreguem valor na vida das pesssoas.</p>
+            <button type="button" name="button">Candidate-se</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Sessão 1 -->
+      <section id="about">
+        <div class="grid">
+          <h2> Para profissionais de diversas áreas</h2>
+
+          <div class="about-group">
+            <div class="about-item">
+              <img src="images/icon-why.svg" alt="Ícone de um alvo">
+              <h3>Por que?</h3>
+              <p>Texto do parágrafo</p>
+            </div>
+
+              <div class="about-item">
+                <img src="images/icon-who.svg" alt="Ícone de uma pessoa">
+                <h3>Por que?</h3>
+                <p>Texto do parágrafo</p>
+          </div>
+
+            <div class="about-item">
+              <img src="images/icon-how.svg" alt="Ícone de uma prancheta">
+              <h3>Por que?</h3>
+              <p>Texto do parágrafo</p>
+            </div>
+
+      </div>
+
+      <div class="career-group">
+        <img src="images/img-career.jpg" alt="Pessoas sentadas em uma mesa">
+        <div class="career-text">
+          <h3> Acelere a sua carreira</h3>
+          <p>Texto do parágrafo</p>
+        </div>
+
+      </div>
+      </section>
+
+<!-- Sessão do Formulário-->
+<section id="page-form">
+
+  <div class="grid">
+    <div class="form-text">
+      <h2>Participe do processo seletivo</h2>
+      <p> Envie suas informações abaixo que a equipe IED entrará em contato para ajudar</p>
+  </div>
+  <form class="" action="index.html" method="post">
+    <input type="text" name="Nome" value="" placeholder="Nome">
+    <input type="text" name="E-mail" value="" placeholder="E-mail">
+    <input type="submit" value="Enviar">
+  </form>
+  </div>
+
+</section>
+
+<!--Rodapé da página -->
+<footer id="page-footer">
+            <div class="grid">
+                <img src="images/img-logo-ied.svg" alt="logo do IED">
+                <div class="footer-content">
+
+                  
+                    <!--adiionar 2 colunas de links-->
+                    <div class="footer-column">
+                        <a href="http://ied.edu.com">Graduação / Bacharelado</a>
+                        <a href="#">Pós-graduação / Especialização</a>
+                        <a href="#">One Year / Experiência internacional</a>
+                        <a href="#">Curta duração / Extensão</a>
+                        <br>
+                        <a href="#">Quem somos</a>
+                        <a href="#">Como fazemos</a>
+                        <a href="#">O que fazemos</a>
+                        <a href="#">Parcerias</a>
+                    </div>
+
+                    <div class="footer-column">
+                        <a href="#">IED no mundo</a>
+                        <a href="#">Estude na Europa</a>
+                        <a href="#">Estude em São Paulo</a>
+                        <a href="#">Perguntas Frequentes (FAQ)</a>
+                        <a href="#">Política de Privacidade</a>
+                        <a href="#">Como fazemos</a>
+                        <a href="#">Contato</a>
+      </div>
+    </div>
+  </div>
+
+</footer>
+  </body>
+
+</html>
+
+<!--
+Header
+Hero
+Section 1
+Section 2
+form
+Footer -->
